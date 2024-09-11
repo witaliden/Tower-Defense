@@ -688,7 +688,7 @@ MonoBehaviour:
   - {fileID: 642662285}
   spawnDelay: 5
   maxLives: 3
-  totalEnemy: 2
+  totalEnemy: 10
   panel: {fileID: 876660015}
   statusInfo: {fileID: 1540418511}
   livesInfo: {fileID: 589526564}

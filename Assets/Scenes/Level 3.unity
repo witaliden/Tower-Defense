@@ -2063,7 +2063,7 @@ MonoBehaviour:
   - {fileID: 2091952272}
   spawnDelay: 5
   maxLives: 3
-  totalEnemy: 1
+  totalEnemy: 10
   panel: {fileID: 1047872024}
   statusInfo: {fileID: 2139557043}
   livesInfo: {fileID: 776985991}
