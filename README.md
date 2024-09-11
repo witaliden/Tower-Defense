@@ -18,7 +18,7 @@
 ## Documentation
 
 ### Game Preview
-<img src="Preview/start.jpg" width="400" height="200"> <img src="Preview/level1.jpg" width="400" height="200"> <img src="Preview/level2.jpg" width="400" height="200"> <img src="Preview/lose.jpg" width="400" height="200"> <img src="Preview/win.jpg" width="400" height="200">
+<img src="Preview/start.jpg" width="400" height="200"> <img src="Preview/level1.jpg" width="400" height="200"> <img src="Preview/level2.jpg" width="400" height="200"> <img src="Preview/lose.png" width="400" height="200"> <img src="Preview/win.jpg" width="400" height="200">
 
 ### Demo
 <img src="Preview/demo.gif" width="400" height="200">
